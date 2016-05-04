@@ -1,1 +1,8 @@
-add file src and main.java file
+
+import junxiong.org.nbzd;
+
+public class Main{
+  public static void main(String[] args){
+    System.out.println("hello world");
+  }
+}
